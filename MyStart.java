@@ -5,5 +5,9 @@ public Class MyStart {
   
     System.out.println("MyStart");
   }
+  
+  public static String theDeveloper() {
+    return "I am Develper";
+  }
 
 }
