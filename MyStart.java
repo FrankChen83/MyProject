@@ -1,5 +1,5 @@
 public class MyStart {
-  public MyStart(){};
+  public MyStart(){}
   
   public static void main(String[] str) {
   
